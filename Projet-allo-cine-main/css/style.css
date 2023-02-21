@@ -1,0 +1,26 @@
+#mov {
+    background-color: rgb(236, 228, 228);
+    border: 1px rgb(206, 18, 18);
+}
+
+h1 {
+    text-align: center;
+    border: 1px black solid;
+    font-size: 30px;
+    background-color: rgb(250, 197, 98);
+}
+
+.container {
+    background-color: white;
+
+}
+
+.movi-photo {
+    width: 400px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
